@@ -1,35 +1,40 @@
 # Hello! 👋 Welcome to my GitHub
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-I'm **Timofei Ivankov**, a Python Backend Developer with expertise in creating high-performance systems and microservice architectures. This profile showcases my technical skills and projects that highlight my approach to solving complex challenges.
+I'm **Timofei Ivankov**, a passionate **Python Backend Developer** specializing in **high-performance systems** and **scalable microservice architectures**. On this profile, you’ll find my technical skills, projects, and contributions that showcase my problem-solving approach and commitment to building efficient, scalable solutions.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### Languages  
+### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-round&logo=go&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-round&logo=kotlin&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-round&logo=kotlin&logoColor=white)
 
-### Frameworks & Tools  
+### **Frameworks & Tools**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=fastapi&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-round&logo=django&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-round&logo=react&logoColor=61DAFB)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=docker&logoColor=white)
 
-### Databases  
+### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ## 📈 My Vision
 
-I am passionate about improving my skills in working with high-load systems, exploring new technologies, and building solutions that enhance processes and drive business efficiency.  
+I'm constantly exploring new technologies, improving my skills in high-load systems, and building solutions that streamline processes and drive business efficiency. My goal is to continue growing as a backend developer and architect, focusing on microservices, cloud infrastructure, and performance optimization.
 
 ---
 
@@ -38,7 +43,8 @@ I am passionate about improving my skills in working with high-load systems, exp
 - **Email:** [ivankovtimofei@yandex.ru](mailto:ivankovtimofei@yandex.ru)  
 - **Telegram:** [@ulovellll375](https://t.me/ulovellll375)  
 - **GitHub:** [deadlovelll](https://github.com/deadlovelll)  
+- **LinkedIn:** [Timofei Ivankov](https://www.linkedin.com/in/timofei-ivankov)  
 
 ---
 
-Thank you for visiting! If you have exciting challenges or projects, feel free to reach out—I’d love to collaborate!
+Thank you for visiting my profile! If you have exciting challenges or projects, feel free to reach out—I’d love to collaborate!
