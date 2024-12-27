@@ -1,5 +1,11 @@
 # Hello! 👋 Welcome to my GitHub
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 I'm **Timofei Ivankov**, a Python Backend Developer with expertise in creating high-performance systems and microservice architectures. This profile showcases my technical skills and projects that highlight my approach to solving complex challenges.
 
 ---
