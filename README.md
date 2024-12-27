@@ -1,10 +1,6 @@
 # Hello! 👋 Welcome to my GitHub
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YourUsername>/<YourForkedRepoName>/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YourUsername>/<YourForkedRepoName>/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<YourUsername>/<YourForkedRepoName>/output/github-snake.svg" />
-</picture>](https://raw.githubusercontent.com/<YourUsername>/<YourForkedRepoName>/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 I'm **Timofei Ivankov**, a Python Backend Developer with expertise in creating high-performance systems and microservice architectures. This profile showcases my technical skills and projects that highlight my approach to solving complex challenges.
 
