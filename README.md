@@ -22,20 +22,6 @@ I'm **Timofei Ivankov**, a Python Backend Developer with expertise in creating h
 
 ---
 
-## 📚 Education and Projects
-
-- **Courses:**  
-  - 100 Days of JavaScript (2024)  
-  - Django Complete Course (2023)  
-  - Python 100 Days Bootcamp (2022)  
-
-- **Projects:**  
-  - A social media platform with personalized recommendations and content moderation.  
-  - A multifunctional automated accounting system.  
-  - Firebase replacement system based on Apache Kafka.
-
----
-
 ## 📈 My Vision
 
 I am passionate about improving my skills in working with high-load systems, exploring new technologies, and building solutions that enhance processes and drive business efficiency.  
