@@ -1,6 +1,6 @@
-# Hello! 👋 Welcome to my GitHub
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+Hello! 👋 Welcome to my GitHub
 
 I'm **Timofei Ivankov**, a passionate **Python Backend Developer** specializing in **high-performance systems** and **scalable microservice architectures**. On this profile, you’ll find my technical skills, projects, and contributions that showcase my problem-solving approach and commitment to building efficient, scalable solutions.
 
