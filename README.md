@@ -9,16 +9,16 @@ I'm **Timofei Ivankov**, a Python Backend Developer with expertise in creating h
 ## 🛠️ Tech Stack  
 
 ### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-round&logo=go&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-round&logo=kotlin&logoColor=white)  
 
 ### Frameworks & Tools  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-round&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat-round&logo=react&logoColor=61DAFB)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=docker&logoColor=white) 
 
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
