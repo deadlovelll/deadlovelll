@@ -50,7 +50,7 @@ I'm constantly exploring new technologies, improving my skills in high-load syst
 - **Email:** [ivankovtimofei@yandex.ru](mailto:ivankovtimofei@yandex.ru)  
 - **Telegram:** [@ulovellll375](https://t.me/ulovellll375)  
 - **GitHub:** [deadlovelll](https://github.com/deadlovelll)  
-- **LinkedIn:** [Timofei Ivankov](https://www.linkedin.com/in/timofei-ivankov)  
+- **LinkedIn:** [Timofei Ivankov](https://www.linkedin.com/in/timofei-ivankov-717154277/)  
 
 ---
 
