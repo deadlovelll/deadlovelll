@@ -57,6 +57,10 @@
 
 ---
 
+## Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact)](https://github.com/deadlovelll/github-readme-stats)
+
 ## 📈 My Vision
 
 🔹 Exploring new technologies in **high-load** and **distributed systems**  
