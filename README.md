@@ -53,12 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=deadlovelll&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
