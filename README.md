@@ -51,6 +51,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=deadlovelll&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
 ## 📈 My Vision
 
 🔹 Exploring new technologies in **high-load** and **distributed systems**  
