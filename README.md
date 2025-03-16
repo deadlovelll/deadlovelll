@@ -88,7 +88,7 @@ I'm always learning, experimenting, and pushing the limits of performance and ef
 ## 📫 Let's Connect
 
 💌 **Email:** [iv4nkovtimofei@yandex.ru](mailto:iv4nkovtimofei@yandex.ru)  
-💬 **Telegram:** [@ulovellll375](https://t.me/playboicartina)  
+💬 **Telegram:** [@playboicartina](https://t.me/playboicartina)  
 🐙 **GitHub:** [deadlovelll](https://github.com/deadlovelll)  
 🕸️ **Setka:** [Timofei Ivankov](https://set.ki/iLxNUUi)  
 👔 **LinkedIn:** [Timofei Ivankov](https://www.linkedin.com/in/timofei-ivankov-717154277/)  
