@@ -75,7 +75,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact)](https://github.com/deadlovelll/github-readme-stats)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lovell3232?theme=dark&font=Karma&ext=contest)](https://leetcode.com/lovell3232/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lovell3232?theme=light&font=Karma&ext=contest)](https://leetcode.com/lovell3232/)
 
 ## 📈 My Vision
 
