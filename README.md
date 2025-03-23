@@ -91,7 +91,7 @@ I'm always learning, experimenting, and pushing the limits of performance and ef
 
 ## 📫 Let's Connect
 
-💌 **Email:** [iv4nkovtimofei@yandex.ru](mailto:timofeiiva@outlook.com)  
+💌 **Email:** [timofeiiva@outlook.com](mailto:timofeiiva@outlook.com)  
 💬 **Telegram:** [@timofeiivankov](https://t.me/timofeiivankov)  
 🐙 **GitHub:** [deadlovelll](https://github.com/deadlovelll)  
 🕸️ **Setka:** [Timofei Ivankov](https://set.ki/iLxNUUi)  
