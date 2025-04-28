@@ -1,5 +1,7 @@
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+[![Listen on SoundCloud](https://img.shields.io/badge/Listen%20on-SoundCloud-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/qwrlfocm-dnjdkcncnr)
+
 # 👋 Welcome to My GitHub!
 
 ### I'm **Timofei Ivankov**, a passionate **Python Backend Developer** specializing in **high-performance systems** and **scalable microservice architectures**.
