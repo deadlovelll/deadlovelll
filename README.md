@@ -100,7 +100,6 @@ I'm always learning, experimenting, and pushing the limits of performance and ef
 💬 **Telegram:** [@timofeiivankov](https://t.me/timofeiivankov)  
 🐙 **GitHub:** [deadlovelll](https://github.com/deadlovelll)  
 🕸️ **Setka:** [Timofei Ivankov](https://set.ki/iLxNUUi)  
-👔 **LinkedIn:** [Timofei Ivankov](https://www.linkedin.com/in/timofei-ivankov-717154277/)  
 
 ---
 
