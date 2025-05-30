@@ -99,7 +99,6 @@ I'm always learning, experimenting, and pushing the limits of performance and ef
 💌 **Email:** [ivankov.timofei@mail.ru](mailto:ivankov.timofei@mail.ru)  
 💬 **Telegram:** [@timofeiivankov](https://t.me/timofeiivankov)  
 🐙 **GitHub:** [deadlovelll](https://github.com/deadlovelll)  
-🕸️ **Setka:** [Timofei Ivankov](https://set.ki/iLxNUUi)  
 
 ---
 
