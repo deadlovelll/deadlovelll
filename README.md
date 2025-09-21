@@ -13,7 +13,6 @@
 ## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## **Frameworks & Architectures**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -42,20 +41,15 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## **Development & Testing**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-000000?style=for-the-badge&logo=python&logoColor=white)
-![PgAdmin4](https://img.shields.io/badge/PgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 ## **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -65,12 +59,9 @@
 
 ## **Design Patterns & Principles**
 ![SOLID](https://img.shields.io/badge/SOLID-FF5733?style=for-the-badge&logo=solid&logoColor=white)
-![DRY](https://img.shields.io/badge/DRY-00BFFF?style=for-the-badge&logo=dry&logoColor=white)
 ![KISS](https://img.shields.io/badge/KISS-8A2BE2?style=for-the-badge&logo=kiss&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-4682B4?style=for-the-badge&logo=dependency-injection&logoColor=white)
-![Singleton](https://img.shields.io/badge/Singleton-008000?style=for-the-badge&logo=singleton&logoColor=white)
-![Factory](https://img.shields.io/badge/Factory-DAA520?style=for-the-badge&logo=factory&logoColor=white)
-![Observer](https://img.shields.io/badge/Observer-FF4500?style=for-the-badge&logo=observer&logoColor=white)
+![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-2196F3?style=for-the-badge&logoColor=white)
 
 ---
 
