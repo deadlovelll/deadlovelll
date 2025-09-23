@@ -85,8 +85,8 @@ I'm always learning, experimenting, and pushing the limits of performance and ef
 
 ## 📫 Let's Connect
 
-💌 **Email:** [ivankov.timofei@mail.ru](mailto:ivankov.timofei@mail.ru)  
-💬 **Telegram:** [@timofeiivankov](https://t.me/timofeiivankov)  
+💌 **Email:** [timofeyyivankov@mail.ru](mailto:timofeyyivankov@mail.ru)  
+💬 **Telegram:** [@endlessnightttttt](https://t.me/endlessnightttttt)  
 
 ---
 
