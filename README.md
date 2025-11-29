@@ -12,6 +12,7 @@
 
 ## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cython](https://img.shields.io/badge/Cython-1F4D2A?style=for-the-badge&logo=cython&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## **Frameworks & Architectures**
