@@ -53,7 +53,7 @@
 ![DDD](https://img.shields.io/badge/DDD-2196F3?style=for-the-badge&logoColor=white)
 
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
