@@ -52,11 +52,13 @@
 ![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-2196F3?style=for-the-badge&logoColor=white)
 
+---
 
 ## 📚 Currently Learning
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ---
 
