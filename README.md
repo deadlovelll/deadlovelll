@@ -44,11 +44,6 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-000000?style=for-the-badge&logo=python&logoColor=white)
 
-## **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## **Design Patterns & Principles**
 ![SOLID](https://img.shields.io/badge/SOLID-FF5733?style=for-the-badge&logo=solid&logoColor=white)
