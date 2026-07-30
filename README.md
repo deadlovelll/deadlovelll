@@ -1,90 +1,40 @@
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+# Hi, I'm Timofei Ivankov 👋
 
-# 👋 Welcome to My GitHub!
+**Python Backend Developer** — high-load systems, microservice architectures, performance optimization.
 
-### I'm **Timofei Ivankov**, a passionate **Python Backend Developer** specializing in **high-performance systems** and **scalable microservice architectures**.
-
-🚀 Here, you’ll find my projects, contributions, and technical explorations that reflect my dedication to efficiency, scalability, and performance optimization.
+I build resilient distributed systems and increasingly reach for Rust and C++ when Python isn't fast enough. I care about clean architecture, observability, and things that don't fall over at 3 AM.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-## **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## **Frameworks & Architectures**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
-
-## **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-## **Technologies & Tools**
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-008000?style=for-the-badge&logo=websockets&logoColor=white)
-
-## **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-## **Development & Testing**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Unittest](https://img.shields.io/badge/Unittest-000000?style=for-the-badge&logo=python&logoColor=white)
-
-
-## **Design Patterns & Principles**
-![SOLID](https://img.shields.io/badge/SOLID-FF5733?style=for-the-badge&logo=solid&logoColor=white)
-![KISS](https://img.shields.io/badge/KISS-8A2BE2?style=for-the-badge&logo=kiss&logoColor=white)
-![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-2196F3?style=for-the-badge&logoColor=white)
+- **[prompt-enhancer](https://github.com/deadlovelll/prompt-enhancer)** — RAG-style retrieval service in Python: document parsing, semantic chunking, hybrid full-text + vector search with RRF aggregation and cross-encoder re-ranking. Built with Clean Architecture / DDD layering.
+- **[pytrek](https://github.com/deadlovelll/pytrek)** — Rust extension for Python (PyO3): parses Python source with tree-sitter, hashes with BLAKE3, and parallelizes analysis via Rayon.
+- **[faster_profanity](https://github.com/deadlovelll/faster_profanity)** — high-performance profanity filtering library written in C++ (CMake, unit-tested, MIT).
+- **[project-management](https://github.com/deadlovelll/project-management)** — project management backend in Java.
 
 ---
 
-## 📚 Currently Learning
+## 🔧 Tech Stack
 
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact)](https://github.com/deadlovelll/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadlovelll)](https://git.io/streak-stats)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lovell3232?theme=light&font=Arial&lapor?ext=contest)](https://leetcode.com/lovell3232/)
-
-## 📈 My Vision
-
-🔹 Exploring new technologies in **high-load** and **distributed systems**  
-🔹 Optimizing architectures for **scalability** and **resilience**  
-🔹 Designing **microservices** and **cloud-native** solutions  
-
-I'm always learning, experimenting, and pushing the limits of performance and efficiency. 
+| | |
+|---|---|
+| **Languages** | Python, Java · learning Rust & CUDA |
+| **Backend** | FastAPI, gRPC, WebSockets, asyncio |
+| **Data** | PostgreSQL, Redis, MongoDB, Kafka |
+| **Infra** | Docker, AWS (S3, EC2), Nginx, Jenkins, GitHub Actions |
+| **Practices** | Clean Architecture, DDD, Pytest, ELK-based observability |
 
 ---
 
-## 📫 Let's Connect
+## 📊 Stats
 
-💌 **Email:** [timofeyyivankov@mail.ru](mailto:timofeyyivankov@mail.ru)  
-💬 **Telegram:** [@endlessnightttttt](https://t.me/endlessnightttttt)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact&hide_border=true)](https://github.com/deadlovelll)
+
+🧩 [LeetCode](https://leetcode.com/lovell3232/)
 
 ---
 
-✨ Thanks for visiting my profile! If you're working on something exciting, let's collaborate! 🚀
+## 📫 Contact
+
+**Email:** [idonthavetwelvebrothers@outlook.com](mailto:idonthavetwelvebrothers@outlook.com) · **Telegram:** [@endlessnightttttt](https://t.me/endlessnightttttt)
