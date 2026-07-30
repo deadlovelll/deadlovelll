@@ -2,8 +2,6 @@
 
 **Python Backend Developer** — high-load systems, microservice architectures, performance optimization.
 
-I build resilient distributed systems and increasingly reach for Rust and C++ when Python isn't fast enough. I care about clean architecture, observability, and things that don't fall over at 3 AM.
-
 ---
 
 ## 🚀 Featured Projects
