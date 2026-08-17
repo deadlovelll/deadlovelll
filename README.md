@@ -37,4 +37,4 @@
 
 ## 📫 Contact
 
-**Email:** [idonthavetwelvebrothers@outlook.com](mailto:idonthavetwelvebrothers@outlook.com) · **Telegram:** [@endlessnightttttt](https://t.me/endlessnightttttt)
+**Email:** [ivankovtimofei@hotmail.com](mailto:ivankovtimofei@hotmail.com) · **Telegram:** [deadlovelll](https://t.me/idonthavetwelvebrothers)
