@@ -25,16 +25,6 @@
 
 ---
 
-## 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlovelll&layout=compact)](https://github.com/deadlovelll/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadlovelll)](https://git.io/streak-stats)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lovell3232?theme=light&font=Arial&lapor?ext=contest)](https://leetcode.com/lovell3232/)
-
----
-
 ## 📫 Contact
 
 **Email:** [ivankovtimofei@hotmail.com](mailto:ivankovtimofei@hotmail.com) · **Telegram:** [deadlovelll](https://t.me/idonthavetwelvebrothers)
