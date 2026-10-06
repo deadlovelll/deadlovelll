@@ -27,4 +27,4 @@
 
 ## 📫 Contact
 
-**Email:** [ivankovtimofei@hotmail.com](mailto:ivankovtimofei@hotmail.com) · **Telegram:** [deadlovelll](https://t.me/idonthavetwelvebrothers)
+**Email:** [timofeideadlovelll@outlook.com](mailto:timofeideadlovelll@outlook.com) · **Telegram:** [deadlovelll](https://t.me/idonthavetwelvebrothers)
