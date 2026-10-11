@@ -4,15 +4,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **[prompt-enhancer](https://github.com/deadlovelll/prompt-enhancer)** — RAG-style retrieval service in Python: document parsing, semantic chunking, hybrid full-text + vector search with RRF aggregation and cross-encoder re-ranking. Built with Clean Architecture / DDD layering.
-- **[pytrek](https://github.com/deadlovelll/pytrek)** — Rust extension for Python (PyO3): parses Python source with tree-sitter, hashes with BLAKE3, and parallelizes analysis via Rayon.
-- **[faster_profanity](https://github.com/deadlovelll/faster_profanity)** — high-performance profanity filtering library written in C++.
-- **[project-management](https://github.com/deadlovelll/project-management)** — project management backend in Java.
-
----
-
 ## 🔧 Tech Stack
 
 | | |
@@ -22,6 +13,15 @@
 | **Data** | PostgreSQL, Redis, MongoDB, Kafka |
 | **Infra** | Docker, AWS (S3, EC2), Nginx, Jenkins, GitHub Actions |
 | **Practices** | Clean Architecture, DDD, Pytest, ELK-based observability |
+
+---
+
+## 📄 Research
+
+**[Python under load: a measurement study of JIT, runtime, native code and build-level optimisations](https://doi.org/10.5281/zenodo.22237194)**
+*T. Ivankov, I. Struchkov · ITMO University · preprint, 2026* · [code & data](https://github.com/deadlovelll/measurement-paper-work)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22237194.svg)](https://doi.org/10.5281/zenodo.22237194)
 
 ---
 
